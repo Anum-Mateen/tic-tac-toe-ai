@@ -2,9 +2,6 @@
 
 This is a command-line Tic-Tac-Toe game implemented in Python, featuring an AI opponent using either the **Minimax algorithm** or **Alpha-Beta pruning** for optimal move decisions.
 
-### 📽️ YouTube Video Link: 
-**Build a Tic-Tac-Toe AI in Python | Minimax vs Alpha-Beta Pruning:** https://youtu.be/jawV2oNylBs
-
 ## 🎮 Features
 
 - Play Tic-Tac-Toe against an unbeatable AI.
